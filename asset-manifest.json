@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rich-text-editor/static/css/main.0cd88060.chunk.css",
+    "main.js": "/rich-text-editor/static/js/main.6e585503.chunk.js",
+    "main.js.map": "/rich-text-editor/static/js/main.6e585503.chunk.js.map",
+    "runtime-main.js": "/rich-text-editor/static/js/runtime-main.234a251a.js",
+    "runtime-main.js.map": "/rich-text-editor/static/js/runtime-main.234a251a.js.map",
+    "static/js/2.81010acc.chunk.js": "/rich-text-editor/static/js/2.81010acc.chunk.js",
+    "static/js/2.81010acc.chunk.js.map": "/rich-text-editor/static/js/2.81010acc.chunk.js.map",
+    "index.html": "/rich-text-editor/index.html",
+    "precache-manifest.cb569e7c08f6e8006ebcc725db4901ca.js": "/rich-text-editor/precache-manifest.cb569e7c08f6e8006ebcc725db4901ca.js",
+    "service-worker.js": "/rich-text-editor/service-worker.js",
+    "static/css/main.0cd88060.chunk.css.map": "/rich-text-editor/static/css/main.0cd88060.chunk.css.map",
+    "static/js/2.81010acc.chunk.js.LICENSE.txt": "/rich-text-editor/static/js/2.81010acc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.234a251a.js",
+    "static/js/2.81010acc.chunk.js",
+    "static/css/main.0cd88060.chunk.css",
+    "static/js/main.6e585503.chunk.js"
+  ]
+}
